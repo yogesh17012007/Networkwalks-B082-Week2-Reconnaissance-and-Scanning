@@ -95,8 +95,8 @@ permission was available.
 
 *Focus:* Graph-based OSINT and relationship mapping.
 
-👉 [Open Module 3]([WK2-PM3-FOOTPRINTING WITH MALTEGO.docx](https://github.com/user-attachments/files/31234822/WK2-PM3-FOOTPRINTING.WITH.MALTEGO.docx)
-)
+👉 [Open Module 3]([[WK2-PM3-FOOTPRINTING WITH MALTEGO.docx](https://github.com/user-attachments/files/31234822/WK2-PM3-FOOTPRINTING.WITH.MALTEGO.docx)
+)](https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM3-FOOTPRINTING%20WITH%20%20MALTEGO)
 
 ### 🕵️ W2-PM4 — OSINT Aggregation
 
