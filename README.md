@@ -128,13 +128,11 @@ Active
 
 ---
 
-# 9. Add a workflow
+# workflow
 
 
 ```markdown
 ## 🔄 Penetration Testing Workflow
-
-```text
 START
   │
   ▼
@@ -162,11 +160,11 @@ Host Identification & Topology Mapping
 END
 ```
 ---
-
+```
 # 10. Add Key Learning Outcomes
-
-```markdown
+markdown
 ## 🧠 Key Learning Outcomes
+
 ```
 Through these modules, I developed practical understanding of:
 
@@ -183,7 +181,8 @@ Through these modules, I developed practical understanding of:
 - Security finding documentation
 - Risk identification
 - Ethical and authorized security testing
-
+```
+```
 ## ⚠️ Risk Observations
 
 ### 🟠 Information Exposure
@@ -237,7 +236,7 @@ against systems or networks without explicit authorization.
 Unauthorized security testing may violate laws, regulations,
 organizational policies and terms of service.
 
-```## 📚 Project Information
+## 📚 Project Information
 
 | Field | Details |
 |---|---|
@@ -249,7 +248,7 @@ organizational policies and terms of service.
 | Phase 2 | Scanning & Network Discovery |
 | Author | Yogesh V |
 | Assessment Date | 19 August 2026 |
-```
+
 
 ## 👤 Author
 
