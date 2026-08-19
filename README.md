@@ -65,9 +65,17 @@ permission was available.
 
 **Focus:** Reconnaissance and footprinting in an authorized environment.
 
-👉 [Open Module 1](./WK2-PM1-FOOTPRINTING & RECONNAISSANCE  ATTACKS WITH MULTIPLE KALI TOOLS)
+👉 [SCREENSHOTS]
+<img width="1400" height="835" alt="WK2-PM1-TASK 1 My result of whois png" src="https://github.com/user-attachments/assets/036b8412-535c-44ff-802e-ecfcccb92480" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 2 My result of whatweb PNG" src="https://github.com/user-attachments/assets/ba9e4261-6660-416b-89a8-893883c5f261" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 3 my result of nslookup png" src="https://github.com/user-attachments/assets/9bf2263e-dfea-4452-99bc-7d6d20d9d2f1" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 4 my result of curl png" src="https://github.com/user-attachments/assets/cf715ed7-96ad-40f3-942d-803ca7e2c5f3" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 5 my result of wafw00f png" src="https://github.com/user-attachments/assets/ebf07cf7-f319-424e-a011-2a24747bc084" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 6 My result of  dnsrecon png" src="https://github.com/user-attachments/assets/1f016f3c-5b66-4e43-ad32-9e9facfd7ada" />
 
-**Tools Used:**
+
+
+
 
 - whois
 - nslookup
@@ -80,24 +88,30 @@ permission was available.
 
 **Focus:** Search-engine-based OSINT.
 
-👉 [Open Module 2](./W2-PM2-GHDB-Google-Dorking/README.md)
+👉 [Open Module 2](https://github.com/user-attachments/files/31234657/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx)
+/README.md)
 
 ### 🕸️ W2-PM3 — Infrastructure Mapping
 
 *Focus:* Graph-based OSINT and relationship mapping.
 
-👉 [Open Module 3](./W2-PM3-Infrastructure-Mapping-Maltego/README.md)
+👉 [Open Module 3]([WK2-PM3-FOOTPRINTING WITH MALTEGO.docx](https://github.com/user-attachments/files/31234822/WK2-PM3-FOOTPRINTING.WITH.MALTEGO.docx)
+)
 
 ### 🕵️ W2-PM4 — OSINT Aggregation
 
 **Focus:** Passive information gathering using theHarvester.
 
-👉 [Open Module 4](./W2-PM4-OSINT-theHarvester/README.md)
+👉 [Open Module 4](<img width="1600" height="818" alt="WK2-PM4-TASK2(theHarvester) png" src="https://github.com/user-attachments/assets/ac483b6a-3589-42b5-9cda-fc34155f7dba" />
+<img width="1600" height="818" alt="WK2-PM4-TASK 1(theHarvester) find email ID   sub-domain png" src="https://github.com/user-attachments/assets/51d6beec-ca6e-42fc-b088-5d3ac7b98804" />
+)
 ### 🖥️ W2-PM5 — Local Network Scanning
 
 *Focus:* Host discovery and network mapping.
 
-👉 [Open Module 5](./W2-PM5-Local-Network-Scanning/README.md)
+👉 [Open Module 5](<img width="1919" height="1080" alt="Screenshot 2026-08-19 194445" src="https://github.com/user-attachments/assets/6194b90e-6aea-4c34-9ce7-7f7327b1667e" />
+<img width="1919" height="1080" alt="Screenshot 2026-08-19 194534" src="https://github.com/user-attachments/assets/1a203668-c1d2-4373-b83a-6271f122bb8b" />
+)
 
 ## 🔎 Key Findings
 
