@@ -72,7 +72,7 @@ permission was available.
 <img width="1600" height="819" alt="WK2-PM1-TASK 4 my result of curl png" src="https://github.com/user-attachments/assets/cf715ed7-96ad-40f3-942d-803ca7e2c5f3" />
 <img width="1600" height="819" alt="WK2-PM1-TASK 5 my result of wafw00f png" src="https://github.com/user-attachments/assets/ebf07cf7-f319-424e-a011-2a24747bc084" />
 <img width="1600" height="819" alt="WK2-PM1-TASK 6 My result of  dnsrecon png" src="https://github.com/user-attachments/assets/1f016f3c-5b66-4e43-ad32-9e9facfd7ada" />
-
+(https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM1-FOOTPRINTING%20%26%20RECONNAISSANCE%20%20ATTACKS%20WITH%20MULTIPLE%20KALI%20TOOLS)
 
 
 
