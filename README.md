@@ -65,7 +65,7 @@ permission was available.
 
 **Focus:** Reconnaissance and footprinting in an authorized environment.
 
-👉 [Open Module 1](./W2-PM1-Kali-Linux-Footprinting/R)
+👉 [Open Module 1](./WK2-PM1-FOOTPRINTING & RECONNAISSANCE  ATTACKS WITH MULTIPLE KALI TOOLS)
 
 **Tools Used:**
 
