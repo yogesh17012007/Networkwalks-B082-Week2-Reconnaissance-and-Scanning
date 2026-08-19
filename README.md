@@ -316,3 +316,20 @@ NetworkWalks Cybersecurity Internship – Week 2
 ├── 📚 Project Information
 └── 👤 Author
 ```
+
+
+
+ALL SCREENSHOTS OF WEEK 2 project Module
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 223250" src="https://github.com/user-attachments/assets/91418940-29b8-42fd-ba08-70832bcd3a08" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-18 215214" src="https://github.com/user-attachments/assets/3c124cd1-0e79-4d53-b0db-15c8f46ec1c8" />
+<img width="1919" height="1080" alt="Screenshot 2026-08-19 192946" src="https://github.com/user-attachments/assets/865c3935-19de-4d7b-90c3-897c5581a482" />
+<img width="1919" height="1080" alt="Screenshot 2026-08-19 194445" src="https://github.com/user-attachments/assets/2d4886c9-cd99-4a13-951e-b7b904bfa6bf" />
+<img width="1919" height="1080" alt="Screenshot 2026-08-19 194534" src="https://github.com/user-attachments/assets/403f9681-6788-4c25-9b6c-05cfe383f306" />
+<img width="1600" height="818" alt="WK2-PM4-TASK2(theHarvester) png" src="https://github.com/user-attachments/assets/9d5de6b7-bb41-4acb-a83b-363cddb866d3" />
+<img width="1600" height="818" alt="WK2-PM4-TASK 1(theHarvester) find email ID   sub-domain png" src="https://github.com/user-attachments/assets/e996bde3-ab54-42a4-a070-0a3e9acbb9d2" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 6 My result of  dnsrecon png" src="https://github.com/user-attachments/assets/9c1065d4-52cb-4fe0-b490-4f3766f0605d" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 5 my result of wafw00f png" src="https://github.com/user-attachments/assets/994ed219-198d-4ff7-b9a2-99a4e32d548f" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 4 my result of curl png" src="https://github.com/user-attachments/assets/2544b942-5bd9-4fb5-9081-7a58aa3eb8f3" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 3 my result of nslookup png" src="https://github.com/user-attachments/assets/3ecdaf1e-9856-4111-8b19-913b77452f67" />
+<img width="1600" height="819" alt="WK2-PM1-TASK 2 My result of whatweb PNG" src="https://github.com/user-attachments/assets/0b64cbe2-8272-42ad-911c-bfa6368b1422" />
+<img width="1400" height="835" alt="WK2-PM1-TASK 1 My result of whois png" src="https://github.com/user-attachments/assets/38538fbe-f380-4ef1-82c8-d27ef5b33754" />
