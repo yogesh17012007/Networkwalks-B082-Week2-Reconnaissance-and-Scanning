@@ -57,20 +57,15 @@ permission was available.
 └── W2-FINAL-REPORT/
     ├── Penetration-Testing-Report.pdf
     └── Authorization.pdf
+```
 ---
-
-# 6. Create Module Navigation
-
-This makes your README easy to navigate.
-
-```markdown
 ## 🧭 Module Navigation
 
 ### 🔎 W2-PM1 — Kali Linux Footprinting
 
 **Focus:** Reconnaissance and footprinting in an authorized environment.
 
-👉 [Open Module 1](./W2-PM1-Kali-Linux-Footprinting/README.m)
+👉 [Open Module 1](./W2-PM1-Kali-Linux-Footprinting/R)
 
 **Tools Used:**
 
@@ -127,6 +122,7 @@ IP Address
 Status
 10.0.0.1
 Active
+```
 
 **Only scan your own/authorized lab network.**
 
@@ -134,7 +130,6 @@ Active
 
 # 9. Add a workflow
 
-You can create a section similar to the screenshot:
 
 ```markdown
 ## 🔄 Penetration Testing Workflow
@@ -165,14 +160,14 @@ Host Identification & Topology Mapping
   │
   ▼
 END
-
+```
 ---
 
 # 10. Add Key Learning Outcomes
 
 ```markdown
 ## 🧠 Key Learning Outcomes
-
+```
 Through these modules, I developed practical understanding of:
 
 - Active and passive reconnaissance
@@ -242,7 +237,7 @@ against systems or networks without explicit authorization.
 Unauthorized security testing may violate laws, regulations,
 organizational policies and terms of service.
 
-## 📚 Project Information
+```## 📚 Project Information
 
 | Field | Details |
 |---|---|
@@ -254,6 +249,7 @@ organizational policies and terms of service.
 | Phase 2 | Scanning & Network Discovery |
 | Author | Yogesh V |
 | Assessment Date | 19 August 2026 |
+```
 
 ## 👤 Author
 
@@ -280,7 +276,7 @@ OSINT and network discovery.
 **Learn responsibly. Test ethically. Document professionally.**
 
 🛡️ Cybersecurity Reconnaissance & Network Scanning
-
+```
 NetworkWalks Cybersecurity Internship – Week 2
 
 ├── 📌 Project Overview
@@ -305,3 +301,4 @@ NetworkWalks Cybersecurity Internship – Week 2
 ├── ⚖️ Legal & Ethical Disclaimer
 ├── 📚 Project Information
 └── 👤 Author
+```
