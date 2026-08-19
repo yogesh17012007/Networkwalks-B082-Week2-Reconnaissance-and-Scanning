@@ -88,8 +88,8 @@ permission was available.
 
 **Focus:** Search-engine-based OSINT.
 
-👉 [Open Module 2]([https://github.com/user-attachments/files/31234657/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx)
-/README.md)](https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM2-FOOTPRINTING%20%26%20RECONNAISSANCE%20%20ATTACKS%20WITH%20GHDB)
+👉 [Open Module 2]([https://github.com/user-attachments/files/31234657/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx])
+(https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM2-FOOTPRINTING%20%26%20RECONNAISSANCE%20%20ATTACKS%20WITH%20GHDB)
 
 ### 🕸️ W2-PM3 — Infrastructure Mapping
 
@@ -109,7 +109,8 @@ permission was available.
 
 *Focus:* Host discovery and network mapping.
 
-👉 [Open Module 5](<img width="1919" height="1080" alt="Screenshot 2026-08-19 194445" src="https://github.com/user-attachments/assets/6194b90e-6aea-4c34-9ce7-7f7327b1667e" />
+👉 [Open Module 5](https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM5-NETWORK%20SCANNING%20WITH%20ZENMAP)
+(<img width="1919" height="1080" alt="Screenshot 2026-08-19 194445" src="https://github.com/user-attachments/assets/6194b90e-6aea-4c34-9ce7-7f7327b1667e" />
 <img width="1919" height="1080" alt="Screenshot 2026-08-19 194534" src="https://github.com/user-attachments/assets/1a203668-c1d2-4373-b83a-6271f122bb8b" />
 )
 
