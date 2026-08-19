@@ -88,8 +88,8 @@ permission was available.
 
 **Focus:** Search-engine-based OSINT.
 
-👉 [Open Module 2](https://github.com/user-attachments/files/31234657/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx)
-/README.md)
+👉 [Open Module 2]([https://github.com/user-attachments/files/31234657/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx)
+/README.md)](https://github.com/yogesh17012007/Networkwalks-B082-Week2-Reconnaissance-and-Scanning/tree/main/WK2-PM2-FOOTPRINTING%20%26%20RECONNAISSANCE%20%20ATTACKS%20WITH%20GHDB)
 
 ### 🕸️ W2-PM3 — Infrastructure Mapping
 
